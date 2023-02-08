@@ -1,6 +1,12 @@
 import pyAgrum as gum
 
 
+def crearred(red):
+    # red = input('Cual es tu red?: ')
+    bn = gum.fastBN(red)
+    return bn
+
+
 def estaDescrita(red):
     bn = gum.fastBN(red)
     nodes_count = bn.nodes()
