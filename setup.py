@@ -15,7 +15,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    install_requires=['numpy'],
+    install_requires=['numpy', 'pyAgrum'],
     keywords=['python', 'bayes', 'bayesian network'],
     classifiers=[
         "Development Status :: 1 - Planning",
