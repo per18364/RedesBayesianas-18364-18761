@@ -4,4 +4,4 @@
 
 ### EJ: redes.crearred('c->r->w<-s<-c')
 
-### Instalacion de la Libreria: pip install RedesBayesianas-18364-18671
+### Instalacion de la Libreria: pip install RedesBayesianas-18364-18761
