@@ -1,5 +1,5 @@
-## lab2_18364_18761
+# lab2_18364_18761
 
-# En las funciones solo se debe ingresar una string:
+### En las funciones solo se debe ingresar una string:
 
-EJ: redes.crearred('c->r->w<-s<-c')
+## EJ: redes.crearred('c->r->w<-s<-c')
